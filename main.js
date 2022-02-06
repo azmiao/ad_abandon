@@ -24,6 +24,7 @@
         $("#coupletright").remove();
         $("#coupletleft").remove();
     }, 500);
+    $('img[src*="https://dd-static.jd.com/ddimg/jfs/t1/219538/38/10100/4280447/61d54b57E825de7ba/881b8d66ef69284c.gif"]').remove();
     $("#fix_bottom_dom").remove();
     //俩樱花
     $("#HMcoupletDivleft").remove();
