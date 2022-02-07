@@ -1,8 +1,18 @@
-# 啊这
+# 部分动漫网站去广告
 
-我不知道这是什么，一切仅为研究学习使用
+适用于油猴插件的脚本，一切仅为研究学习使用
+
+## 更新日志
+
+2022-02-07  v1.1    又增加了几个网站
+
+2022-02-06  v1.0    欸嘿嘿
 
 ## 支持的网站
+
+[假的D站](https://dilidili.io/)
+
+[动漫岛](http://www.88dmw.com/)（要魔法才能上）
 
 [bimibimi](https://www.bimiacg4.net/)
 
@@ -10,12 +20,22 @@
 
 [假的樱花动漫](http://www.imomoe.live/)
 
+[真的樱花动漫](http://m.imomoe.live/)
+
 [age动漫](https://www.agemys.com/)
 
 [233动漫](https://www.dm233.cc/)
 
-## 干嘛的？
+[漫岛动漫](https://www.mandao.tv/)
 
-看看代码？没几行
+[异世界动漫](https://www.ysjdm.net/)
 
-或者你打开油猴插件，导入脚本`main.js`就知道了
+[动漫花园](https://dmhy.org/)（好像也要魔法）
+
+## 脚本仓库链接
+
+https://github.com/azmiao/ad_abandon
+
+## 反馈
+
+反馈请反馈至Github仓库，提交issue
