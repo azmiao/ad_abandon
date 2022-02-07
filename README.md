@@ -8,6 +8,18 @@
 
 2022-02-06  v1.0    欸嘿嘿
 
+## greasyfork链接
+
+https://greasyfork.org/zh-CN/scripts/439662-%E9%83%A8%E5%88%86%E5%8A%A8%E6%BC%AB%E7%BD%91%E7%AB%99%E5%8E%BB%E5%B9%BF%E5%91%8A
+
+## 脚本仓库链接
+
+https://github.com/azmiao/ad_abandon
+
+## 反馈
+
+反馈请反馈至[本Github仓库](https://github.com/azmiao/ad_abandon)，提交issue即可。不建议在greasyfork反馈（不怎么看）
+
 ## 支持的网站
 
 [假的D站](https://dilidili.io/)
@@ -31,11 +43,3 @@
 [异世界动漫](https://www.ysjdm.net/)
 
 [动漫花园](https://dmhy.org/)（好像也要魔法）
-
-## 脚本仓库链接
-
-https://github.com/azmiao/ad_abandon
-
-## 反馈
-
-反馈请反馈至Github仓库，提交issue
