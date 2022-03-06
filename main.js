@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         部分动漫网站去广告
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.2
 // @icon         https://cdn.jsdelivr.net/gh/azmiao/picture-bed/img/%E5%9B%BE%E6%A0%87.png
 // @description  支持的网站：假的D站，动漫岛，bimibimi，去看吧（即k8dm这个网站非常全，力荐），假的樱花动漫和真的樱花，age动漫（最近好像炸了），233动漫，漫岛动漫，异世界动漫，动漫花园
 // @author       AZMIAO
@@ -9,9 +9,12 @@
 // @match        *://*.dilidili.io/*
 // @match        *://*.88dmw.com/*
 // @match        *://*.bimiacg4.net/*
+// @match        *://*.bimiacg.one/*
 // @match        *://k8dm.com/*
+// @match        *://k6dm.com/*
 // @match        *://*.imomoe.live/*
 // @match        *://*.agemys.com/*
+// @match        *://*.age.tv/*
 // @match        *://www.dm233.cc/*
 // @match        *://*.mandao.tv/*
 // @match        *://*.ysjdm.net/*
