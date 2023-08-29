@@ -4,6 +4,8 @@
 
 ## 更新日志
 
+2023-08-29  v1.4    增加去除bimi新的广告
+
 2022-06-21  v1.3    新增奇米奇米，删除以及寄了的樱花动漫，修复age不能看的问题，其他新增广告的去除
 
 2022-03-06  v1.2    添加几个动漫网站的备用网站
@@ -28,7 +30,7 @@ https://github.com/azmiao/ad_abandon
 
 [动漫岛](http://www.88dmw.com/)（要魔法才能上）
 
-[bimibimi](https://www.bimiacg4.net/)
+[bimibimi](https://www.bimiacg4.net/)（好像也要魔法）
 
 [去看吧](https://k8dm.com/)
 
