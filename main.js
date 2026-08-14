@@ -35,6 +35,13 @@
         $("#fix_bottom_dom").remove();
         $("divz:visible").hide(1000);
         $("#adv_wrap_hh").remove();
+       // bimi手机版
+       $("#m_adv").remove();
+       $("#m_bottom_adv").remove();
+       $("#m_top_adv").remove();
+       $("#m_float_ad").remove();
+       $("div.m-adv").remove();
+       $("#m_bimi_ad").remove();
         // 去看吧
         $('div[class="tuiguang"]').remove();
         // 233动漫
